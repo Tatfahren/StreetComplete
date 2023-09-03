@@ -1344,4 +1344,5 @@ Fehlende Daten sind immer rot eingefärbt."</string>
 Einige Overlays ermöglichen außerdem das Hinzufügen neuer Daten an der Position des Fadenkreuzes, beispielsweise das Adressen-Overlay."</string>
     <string name="quest_crossing_kerb_height_title">"Wie hoch sind die Bordsteine an dieser Kreuzung?"</string>
     <string name="quest_letter_box_lockable">"Ist dieser Hausbriefkasten durch ein Schloss oder ähnlichem gegen Diebstahl gesichert?"</string>
+    <string name="quest_letter_box_letter_filter">"Gibt es bei diesem Hausbriefkasten einen Aufkleber gegen irgendeine Art von Werbung?"</string>
 </resources>

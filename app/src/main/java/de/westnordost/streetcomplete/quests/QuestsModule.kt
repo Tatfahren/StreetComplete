@@ -87,6 +87,7 @@ import de.westnordost.streetcomplete.quests.internet_access.AddInternetAccess
 import de.westnordost.streetcomplete.quests.kerb_height.AddKerbHeight
 import de.westnordost.streetcomplete.quests.lanes.AddLanes
 import de.westnordost.streetcomplete.quests.leaf_detail.AddForestLeafType
+import de.westnordost.streetcomplete.quests.letter_box_letter_filter.AddIfLetterBoxHasLetterFilter
 import de.westnordost.streetcomplete.quests.letter_box_lockable.AddIfLetterBoxIsLockable
 import de.westnordost.streetcomplete.quests.level.AddLevel
 import de.westnordost.streetcomplete.quests.max_height.AddMaxHeight
@@ -327,6 +328,7 @@ fun questTypeRegistry(
     155 to AddGritBinSeasonal(),
 
     160 to AddIfLetterBoxIsLockable(),
+    161 to AddIfLetterBoxHasLetterFilter(),
 
     50 to AddBoardType(),
 
